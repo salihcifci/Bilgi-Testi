@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+EN: The user answers the questions on the screen, and the answers given by the user are compared with the real answers to the questions, and the correct or incorrect icon appears on the screen according to the answer given.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TR: Kullanıcı ekranda çıkan sorulara cevap verir ve kullanıcının verdiği cevaplar soruların gerçek cevapları ile karşılaştırılıp verilen cevaba göre doğru veya yanlış iconu ekrana çıkar.
